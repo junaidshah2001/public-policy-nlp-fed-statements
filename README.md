@@ -2,6 +2,7 @@
 
 This project applies Natural Language Processing (NLP) techniques to Federal Reserve (FOMC) statements to understand themes, sentiment, uncertainty, and patterns in central bank communication.
 
+
 📁 Project Files
 
 nlp_fed_statements.ipynb — Main notebook with complete analysis
@@ -9,6 +10,7 @@ nlp_fed_statements.ipynb — Main notebook with complete analysis
 statements.csv — Dataset of FOMC statements
 
 requirements.txt — Python libraries used
+
 
 🔍 What This Project Does
 
@@ -24,6 +26,7 @@ Measures sentiment & uncertainty using dictionary-based methods
 
 Performs basic regression to study relations between text features and outcomes
 
+
 🛠 How to Use
 
 1. Install dependencies
@@ -31,14 +34,17 @@ Performs basic regression to study relations between text features and outcomes
 pip install -r requirements.txt
 
 
+
 2. Run the notebook
 
 jupyter notebook
 
 
+
 Then open:
 
 notebooks/nlp_fed_statements.ipynb
+
 
 📌 Skills Demonstrated
 
@@ -53,6 +59,7 @@ Data visualization
 Regression using text features
 
 Real-world policy document analysis
+
 
 👤 Author
 
